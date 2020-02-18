@@ -1,1 +1,1 @@
-Prateek's GitHub Profile: (https://github.com/prateekrathaur)
+[Prateeks GitHub Profile:] (https://github.com/prateekrathaur)
